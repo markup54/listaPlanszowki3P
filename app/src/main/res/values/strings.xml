@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Planszowki3Pgr2</string>
+    <string-array name="kategorie">
+        <item>logiczne</item>
+        <item>strategiczne</item>
+        <item>bitewne</item>
+        <item>ekonomiczne</item>
+        <item>familijne</item>
+        <item>karciane</item>
+    </string-array>
 </resources>
